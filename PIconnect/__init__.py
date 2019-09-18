@@ -21,7 +21,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-from PIconnect.AFSDK import AF
+from PIconnect.AFSDK import AF, AF_SDK_VERSION
 from PIconnect.PI import PIServer
 from PIconnect.PIAF import PIAFDatabase
 
