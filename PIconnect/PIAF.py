@@ -196,4 +196,3 @@ class PIAFEventFrame(PIAFBaseElement):
         if not self.element.Parent:
             return None
         return self.__class__(self.element.Parent)
-
